@@ -28,7 +28,7 @@ namespace Iterative_Statement
                 if (input_value > 0 && input_value < 101)
                 {
 
-                    for (int i= 0; i < input_value; i++)
+                    for (int i= 1; i <= input_value; i++)
                     {
                         //first displays the input the user entered.
                         //then displays the interger value in the loop
