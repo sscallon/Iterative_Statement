@@ -40,7 +40,7 @@ namespace Iterative_Statement
                     Console.WriteLine("Press any key to exit the program");
                     Console.ReadKey(true);
                 }
-                else
+                else //else statement prompting the user to enter an interger between 1 and 100
                 {
                     Console.WriteLine("Please restart the console and enter an interger between 1 and 100");
                     Console.WriteLine("Press any key to exit the program");
